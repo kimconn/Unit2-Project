@@ -30,12 +30,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-//<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://imgur.com/bCJSb2n">Video Walkthrough</a>
 
 
 ## Notes
 
-Learned how to format screen further with TableViews and 
+Learned how to format screens further with TableViews/Table Cells features.
 
 ## License
 
